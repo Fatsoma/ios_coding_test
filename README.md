@@ -14,7 +14,7 @@ Your submission must be your own work.
 
 ## Problem definition
 
-We would like you to develop a iOS application consisting of a single infinitely loading list pulled from our main events [API](https://api.fatsoma.com/v1/events). The Fatsoma API is based on the [JSONAPI](https://jsonapi.org/) specification and supports various includes such as Location, Page and Tickets
+We would like you to develop a iOS application consisting of a single infinitely loading list pulled from our main events [API](https://api.fatsoma.com/v1/events). The Fatsoma API is based on the [JSONAPI](https://jsonapi.org/) specification and supports various includes such as Location, Page and Tickets.
 
 The app should display an appropriate UI to indicate to the user that it is busy while it fetches results from the API. If the API request fails it should display an error message and a “Try Again” button which can be used to retry the API call. 
 
